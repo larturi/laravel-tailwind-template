@@ -1,5 +1,5 @@
-## Blog Laravel & Jetstream con Adminstrador
-Blog autoadministrable con Laravel 9, Jetstream, Sail y LTE Admin.
+## Laravel & Jetstream & Livewire
+Template Laravel 9, Jetstream, Livewire y Sail
 
 ## 🚀 Quick start
 
